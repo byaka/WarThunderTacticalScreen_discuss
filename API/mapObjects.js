@@ -1,5 +1,3 @@
-#http://localhost:8111/map_obj.json
-
 [
    {
       "blink": 0,
